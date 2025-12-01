@@ -1,6 +1,21 @@
-1) เข้าไปยังโฟลเดอร์โปรเจคที่ได้ทำการ Clone มา หรือในกรณีที่ดาวน์โหลดเป็นไฟล์ .zip ให้ทำการเเตกไฟล์ก่อน
-2) เปิด Terminal ขึ้นมา โดย Path ใน Terminal จะต้องเป็น Path เดียวกับโฟลเดอร์โปรเจค
-3) รันคำสั่ง python -m venv env
-4) รันคำสั่ง env\Scripts\activate
-5) รันคำสั่ง pip install -r requirements.txt
-6) รันคำสั่ง python app.py
+# Stock Screener Application (4 Participants)
+
+Tools and Languages
+- Python
+
+Frontend
+- Python Tkinter and Tkinter TTK Bootstrap Library
+
+Backend
+- Python Pandas and Numpy Library
+- Python Matplotlib Library
+- Yahoo Finance Yfinance Library
+
+**Main Requirement**
+- Search desired stock from market index, financial ratios, and performance year
+- Find and sort 10 most correlated stocks from user searching as result
+- User can add each result stock to his/her portfolio
+- Portfolio can show stocks which user added, clear all stock inside, and calculate risk related to stock in portfolio
+- Risk Calculated will be in range between 0-10 and categorized from diversified to specialized portfolio
+- Application can generate heatmap correlation of stocks in portfolio
+
