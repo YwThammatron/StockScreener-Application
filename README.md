@@ -12,10 +12,17 @@ Backend
 - Yahoo Finance Yfinance Library
 
 **Main Requirement**
-- Search desired stock from market index, financial ratios, and performance year
+- Search desired stock from market index, financial ratios, and/or performance year
 - Find and sort 10 most correlated stocks from user searching as result
 - User can add each result stock to his/her portfolio
 - Portfolio can show stocks which user added, clear all stock inside, and calculate risk related to stock in portfolio
 - Risk Calculated will be in range between 0-10 and categorized from diversified to specialized portfolio
 - Application can generate heatmap correlation of stocks in portfolio
+
+Responsibility - Frontend Developer
+- Work with other 1 participant in frontend team
+- Use stock table and heatmap calculation function from backend team
+- Use and arrange Tkinter and Tkinter TTK Bootstrap widgets to create user interface
+- Design and visualized result section to be most convenient for user and minimalized area
+- Create Guide page to indicate user about range of each financial ratios and portfolio risk
 
