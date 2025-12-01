@@ -26,3 +26,10 @@ Responsibility - Frontend Developer
 - Design and visualized result section to be most convenient for user and minimalized area
 - Create Guide page to indicate user about range of each financial ratios and portfolio risk
 
+Project Clone Guides
+- Navigate to your cloned folder (extract first if you download in ZIP file)
+- Open Terminal with path to your cloned folder
+- Run python -m venv env
+- Run pip install -r requirements.txt
+- Run python app.py
+
