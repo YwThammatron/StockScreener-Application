@@ -12,6 +12,7 @@ Backend
 - Yahoo Finance Yfinance Library
 
 **Main Requirement**
+- Use Linear Algebra Correlation, Cosine Similiarity and Heatmap 
 - Search desired stock from market index, financial ratios, and/or performance year
 - Find and sort 10 most correlated stocks from user searching as result
 - User can add each result stock to his/her portfolio
